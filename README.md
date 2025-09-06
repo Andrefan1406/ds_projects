@@ -24,7 +24,7 @@
 
 ## 📂 Проекты  
 
-🔹 [Проект 1: Concrete Delay Predictor(./churn_prediction/README.md)  
+🔹 [Проект 1: Concreate Delay Predictor](./concrete_delays/README.md)   
 Прогнозирование оттока клиентов для телеком-оператора.  
 
 🔹 [Проект 2: Star Temperature Prediction](./star_temperature/README.md)  
