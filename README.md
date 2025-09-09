@@ -42,9 +42,7 @@
 ---
 
 ## 📫 Связаться со мной  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📸 [Instagram](https://www.instagram.com/)  
-- 📝 [Facebook](https://www.facebook.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrey-kuznetsov-95a0302a9/)  
 - 📧 Email: **a.kuznecov_eu@vkdevgroup.kz**  
 
 ---
