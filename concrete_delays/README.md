@@ -55,11 +55,11 @@
 ## 🚀 Запуск проекта
 
 Склонировать репозиторий и установить зависимости:
-
+```
 git clone https://github.com/username/concrete-delay-predictor.git
 cd concrete-delay-predictor
 pip install -r requirements.txt
-
+```
 Открыть Jupyter Notebook:
 
 jupyter notebook notebooks/ConcreteDelayPredictor.ipynb
@@ -80,4 +80,5 @@ jupyter notebook notebooks/ConcreteDelayPredictor.ipynb
 
 
 ---
+
 
