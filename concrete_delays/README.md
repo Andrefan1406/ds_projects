@@ -47,8 +47,8 @@
 
 Автор: **Андрей Кузнецов**
 
-* [LinkedIn](https://www.linkedin.com/)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrey-kuznetsov-95a0302a9/)  
+- 📧 Email: **a.kuznecov_eu@vkdevgroup.kz**  
 
 ---
 
@@ -56,6 +56,7 @@
 
 
 ---
+
 
 
 
