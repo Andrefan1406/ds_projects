@@ -14,11 +14,10 @@
 ---
 
 ## 🔧 Навыки и инструменты  
-- 📍 **Языки программирования**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch)  
+- 📍 **Язык программирования**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch)  
 - 📍 **Работа с данными**: SQL, Excel, Google Sheets, Power Query  
 - 📍 **ML & DS**: классификация, регрессия, модели прогнозирования, нейросети  
 - 📍 **Инструменты**: Git, GitHub, Jupyter Notebook, VS Code  
-- 📍 **Базы данных**: PostgreSQL  
 
 ---
 
@@ -46,8 +45,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 📸 [Instagram](https://www.instagram.com/)  
 - 📝 [Facebook](https://www.facebook.com/)  
-- 📧 Email: **your.email@example.com**  
+- 📧 Email: **a.kuznecov_eu@vkdevgroup.kz**  
 
 ---
-
-⭐ Если вам интересны мои проекты — ставьте звёздочку и подписывайтесь на обновления!  
+  
