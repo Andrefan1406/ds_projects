@@ -26,7 +26,7 @@
 🔹 [Проект 1: Concreate Delay Predictor](./concrete_delays/README.md)   
 Прогнозирование задержек поставки бетона на строительные объекты.  
 
-🔹 [Проект 2: Star Temperature Prediction](./star_temperature/README.md)  
+🔹 [Проект 2: Star Temperature Prediction](./rebar/README.md)  
 Нейросеть для предсказания температуры звёзд.  
 
 🔹 [Проект 3: Used Car Price Estimation](./car_price/README.md)  
